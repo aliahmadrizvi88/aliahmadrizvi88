@@ -6,7 +6,7 @@
 </div>
 
 
-* My Linkdin [www.linkedin.com/in/syedaliahmadrizvi88](URL)
+* My Linkdin [www.linkedin.com/in/syedaliahmadrizvi88]
 * Ask me about anything about JS, React, Vue
 * Reach me through: [aliahmadrizvi88@gmail.com](URL)
 * Love to Play Story Mode
