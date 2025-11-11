@@ -15,4 +15,4 @@
 ### Connect with me:
 
 ### Language and Tools
-<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
