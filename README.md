@@ -28,5 +28,4 @@
 [![Nodejs](https://skillicons.dev/icons?i=nodejs&size=50px)]([https://redux-toolkit.js.org/](https://nodejs.org/en/about))
 [![express](https://skillicons.dev/icons?i=express&size=50px)]([https://vuejs.org/](https://expressjs.com/))
 [![mongodb](https://skillicons.dev/icons?i=mongodb&size=50px)](https://www.mongodb.com/)
-[![Canva](https://skillicons.dev/icons?i=canva&size=50px)](canva.com)
 
