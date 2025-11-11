@@ -9,7 +9,7 @@
 * 🔗 My Linkdin [www.linkedin.com/in/syedaliahmadrizvi88]
 * 💻 Ask me about anything about JS, React, Vue
 * ✉️ Reach me through: [aliahmadrizvi88@gmail.com]
-* 🎮 Love to Play Story Mode, Strategy, Souls Born Games(AOE, Tomb Raider, SEKIRO, etc.)
+* 🎮 Love to Play Story Mode, Strategy, Souls Born Games(👑AOE, 🏔️Tomb Raider, 🥷SEKIRO, etc.)
 
 
 ### Connect with me:
