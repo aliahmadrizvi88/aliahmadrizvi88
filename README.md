@@ -16,4 +16,10 @@
 
 ### Language and Tools
 [![JS](https://skillicons.dev/icons?i=js&size=50px)]([https://skillicons.dev](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
-,vite,react,vue,redux,pinia,nodejs,express,mongodb
+[![VITE](https://skillicons.dev/icons?i=vite&size=50px)]([https://skillicons.dev](https://vite.dev/))
+[![React](https://skillicons.dev/icons?i=react&size=50px)]([https://skillicons.dev](https://react.dev/))
+[![Redux](https://skillicons.dev/icons?i=redux&size=50px)]([https://skillicons.dev](https://redux-toolkit.js.org/))
+[![vue](https://skillicons.dev/icons?i=vue&size=50px)]([https://skillicons.dev](https://vuejs.org/))
+[![pinia](https://skillicons.dev/icons?i=pinia&size=50px)]([https://skillicons.dev](https://pinia.vuejs.org/))
+
+nodejs,express,mongodb
