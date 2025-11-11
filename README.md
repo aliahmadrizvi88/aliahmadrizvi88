@@ -15,4 +15,5 @@
 ### Connect with me:
 
 ### Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,vite,react,vue,redux,pinia,canva,nodejs,express,mongodb&size=50px)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js&size=50px)]([https://skillicons.dev](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
+,vite,react,vue,redux,pinia,nodejs,express,mongodb
