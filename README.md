@@ -15,4 +15,4 @@
 ### Connect with me:
 
 ### Language and Tools
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=js,vite,react,vue,redux,pinia,canva,nodejs,express,mongodb&size=50px)](https://skillicons.dev)
