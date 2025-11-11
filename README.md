@@ -15,4 +15,4 @@
 ### Connect with me:
 
 ### Language and Tools
-![Javascript](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter Badge"/>
