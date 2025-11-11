@@ -13,6 +13,8 @@
 
 
 ### Connect with me:
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&size=50px)](www.linkedin.com/in/syedaliahmadrizvi88)
+[![Instagram](https://skillicons.dev/icons?i=instagram&size=50px)]([https://vite.dev/](https://www.instagram.com/the_a_h_m_a_d/))
 
 ### Language and Tools
 [![JS](https://skillicons.dev/icons?i=js&size=50px)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
