@@ -12,4 +12,7 @@
 * 🎮 Love to Play Story Mode Games
 
 
-### 
+### Connect with me:
+
+### Language and Tools
+![Javascript](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
